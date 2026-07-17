@@ -1,0 +1,6 @@
+/target
+reports/
+report/
+*.html
+*.txt
+*.gguf
